@@ -1,0 +1,22 @@
+h1{
+	font: cursive;
+	color: #6495ED;
+}
+.board{
+	background-color :#AED6F1;
+	boder: 1px solid lavender;
+	padding :20px;
+	margin-left: 450px;
+	margin-top:  50px;
+	width: 350px;
+}
+.result {
+	margin-left: 10px;
+}
+.text{
+	margin-left: 15px;
+}
+.droplist{
+	width:  200px;
+	baackground:  #fff;
+}
